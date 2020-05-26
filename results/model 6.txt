@@ -1,0 +1,32 @@
+(6)
+------------------------------
+Model and Feature used: VERSION: balanced_df
+Model used: GaussianNB
+Score: 0.9375644994840042
+Corelation Name : GaussianNB_backward_selected_features
+Filtered Features Used: ['V4', 'V6', 'V7', 'V13', 'V14', 'V19', 'V23', 'V25', 'bin_time']
+
+TN: 85
+FN: 2
+TP: 100
+FP: 10
+
+TPR: 0.98
+TNR: 0.89
+FPR: 0.11
+FNR: 0.02
+
+
+PPV: 0.91
+NPV: 0.98
+FDR: 0.09
+
+Recall Score: 0.89
+Precision Score: 0.98
+F1 Score: 0.93
+Accuracy Score: 0.94
+
+
+TN: 85, FN: 2, TP: 100, FP: 10, TPR: 0.98, TNR: 0.89, PPV: 0.91, NPV: 0.98, FPR: 0.11, FNR: 0.02, FD
+R: 0.09, Recall Score: 0.89, Precision Score: 0.98, F1 Score: 0.93, Accuracy Score: 0.94
+------------------------------

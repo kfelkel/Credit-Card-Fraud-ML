@@ -1,0 +1,32 @@
+(1)
+------------------------------
+Model and Feature used: VERSION: balanced_df
+Model used: RandomForestClassifier
+Score: 0.9422360248447206
+Corelation Name : filtered_correlation_selected_features
+Filtered Features Used: ['V3', 'V4', 'V9', 'V10', 'V11', 'V12', 'V14', 'V16', 'V17']
+TN: 84
+FN: 3
+TP: 102
+FP: 8
+
+
+TPR: 0.97
+TNR: 0.91
+FPR: 0.09
+FNR: 0.03
+
+PPV: 0.93
+NPV: 0.97
+FDR: 0.07
+
+
+Recall Score: 0.91
+Precision Score: 0.97
+F1 Score: 0.94
+Accuracy Score: 0.94
+
+
+TN: 84, FN: 3, TP: 102, FP: 8, TPR: 0.97, TNR: 0.91, PPV: 0.93, NPV: 0.97, FPR: 0.09, FNR: 0.03, FD
+R: 0.07, Recall Score: 0.91, Precision Score: 0.97, F1 Score: 0.94, Accuracy Score: 0.94
+------------------------------

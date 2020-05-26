@@ -1,0 +1,31 @@
+(3)
+------------------------------
+Model and Feature used: VERSION: balanced_df
+Model used: RandomForestClassifier
+Score: 0.9348700495049505
+Corelation Name : RandomForestClassifier_backward_selected_features
+Filtered Features Used: ['V4', 'V7', 'V13', 'V14', 'V17', 'V18', 'V21', 'V26', 'V27']
+TN: 91
+FN: 3
+TP: 93
+FP: 10
+
+
+TPR: 0.97
+TNR: 0.9
+FPR: 0.1
+FNR: 0.03
+
+PPV: 0.9
+NPV: 0.97
+FDR: 0.1
+
+Recall Score: 0.90
+Precision Score: 0.97
+F1 Score: 0.93
+Accuracy Score: 0.93
+
+
+TN: 91, FN: 3, TP: 93, FP: 10, TPR: 0.97, TNR: 0.9, PPV: 0.9, NPV: 0.97, FPR: 0.1, FNR: 0.03, FDR:
+0.1, Recall Score: 0.90, Precision Score: 0.97, F1 Score: 0.93, Accuracy Score: 0.93
+------------------------------
